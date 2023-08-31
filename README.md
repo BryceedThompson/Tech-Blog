@@ -1,2 +1,1 @@
 # Tech-Blog
-tech blog
