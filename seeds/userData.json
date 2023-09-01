@@ -1,27 +1,27 @@
 [
     {
-      "name": "James Smith",
-      "email": "jamesSmith1@gmail.com",
+      "name": "James",
+      "email": "james@email.com",
       "password": "password1"
     },
     {
-        "name": "James Smith2",
-        "email": "jamesSmith2@gmail.com",
+        "name": "Bob",
+        "email": "bob@email.com",
       "password": "password2"
     },
     {
-        "name": "James Smith3",
-        "email": "jamesSmith3@gmail.com",
+        "name": "Lacy",
+        "email": "lacy@email.com",
       "password": "password3"
     },
     {
-        "name": "James Smith4",
-        "email": "jamesSmith4@gmail.com",
+        "name": "Morgan",
+        "email": "morgan@email.com",
       "password": "password4"
     },
     {
-        "name": "James Smith5",
-        "email": "jamesSmith5@gmail.com",
+        "name": "Bret",
+        "email": "bret@email.com",
       "password": "password5"
     }
   ]
