@@ -15,6 +15,7 @@ Download the file from my github and install Insomnia!
 * log into mysql using your password and then run 'source schema.sql'
 * in the server terminal run 'npm run seed'
 * run 'npm run start'
+* open your bowser to http://localhost:3001/
 
 ```md
 WHEN you visit the site for the first time
@@ -57,7 +58,7 @@ THEN you are able to view posts and comments but you are prompted to log in agai
 
 ## Contact
 * [Github Link](https://github.com/BryceedThompson)
-* [Contact Me](mailto:bryceedthompson@gmail.com)
+* [Contact Me via email](mailto:bryceedthompson@gmail.com)
 
 ## Credit
 * [Heroku deploy](https://coding-boot-camp.github.io/full-stack/heroku/deploy-with-heroku-and-mysql)

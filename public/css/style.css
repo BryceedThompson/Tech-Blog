@@ -1,12 +1,4 @@
-:root {
-    --primary: #e0e2e9;
-    --secondary: #b6e5d8;
-    --tertiary: #549999;
-    --light-dark: #534e4c;
-    --dark: #144114;
-    --border-radius: .3rem;
-  }
-  
+
   header, .project:not(:last-child) {
     border-bottom: 1px solid #ccc;
   }
@@ -29,25 +21,25 @@
   
   .app-title {
     font-size: 4rem;
-    background-color: var(--primary);
-    color: var(--dark);
+    background-color:#e0e2e9;
+    color:#144114;
     padding: 0 10px;
     display: inline-block;
-    border-radius: var(--border-radius);
-    box-shadow: 6px 5px var(--light-dark);
+    border-radius:.3rem;
+    box-shadow: 6px 5px  #534e4c;
   }
   
   .hero {
     padding: 3% 4%;
-    background-color: var(--dark);
-    color: var(--primary);
+    background-color:#144114;
+    color:#e0e2e9;
   }
   
   .hero p {
     max-width: 75%;
   }
   body{
-    background-color: var(--primary);
+    background-color:#e0e2e9;
     height: 100vh
   }
   .blogcard{
